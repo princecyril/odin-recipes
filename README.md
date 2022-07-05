@@ -1,2 +1,1 @@
-# odin-recipes
-project_one
+This is the first project that I will be working on to demonstrate the HTML skills that I have acquired 
